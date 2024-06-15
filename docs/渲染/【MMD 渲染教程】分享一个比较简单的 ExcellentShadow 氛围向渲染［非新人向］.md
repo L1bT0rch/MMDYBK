@@ -12,7 +12,9 @@
 
 以下是所有用到的 mme:
 
-![][img-1](导入 effect 时请以 ExcellentShadow 为第一个)
+![][img-1]
+
+(导入 effect 时请以 ExcellentShadow 为第一个)
 
 **一、光照操作** 
 
